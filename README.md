@@ -1,4 +1,4 @@
-# Formula-1-Eftir-Adam-Szczubelek-Spilareglur
+# Formula 1 Eftir Adam Szczubelek Spilareglur
 
 # Spilareglur
 Fjöldi leikmanna:  
